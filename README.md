@@ -21,7 +21,7 @@ HTML, CSS (in progress), Git basics
 
 ## Find me elsewhere
 - [LinkedIn](https://www.linkedin.com/in/l%C3%ADvia-kiss-991401391/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmMq7nHF2S9CJih9K3sqgCw%3D%3D)
-- [X/Twitter](https://x.com/LiviaKiss36389)
+- [X/Twitter](https://x.com/LiviaKissDesign)
 - [Dribbble](https://dribbble.com/livia-kiss)
 - [Portfolio](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Falivedesignstudio.net%2F&urlhash=FFuU&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmMq7nHF2S9CJih9K3sqgCw%3D%3D)
 

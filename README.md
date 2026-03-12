@@ -17,7 +17,13 @@ I'm a product-focused UX/UI designer learning frontend development — building 
 Figma, Adobe XD, design systems, prototyping
 
 ## Code so far
-HTML, CSS (in progress), Git basics
+HTML, CSS, Git basics, JavaScript (in progress)
+
+## Certifications
+
+- 🎓 **freeCodeCamp — Responsive Web Design** · March 2026 · [Verify](https://freecodecamp.org/certification/klivi77/responsive-web-design-v9)
+- 📜 **Google UX Design Certificate** · 2025
+- 📜 **Google Digital Marketing Certificate** · 2025
 
 ## Find me elsewhere
 - [LinkedIn](https://www.linkedin.com/in/l%C3%ADvia-kiss-991401391/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmMq7nHF2S9CJih9K3sqgCw%3D%3D)

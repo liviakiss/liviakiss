@@ -9,9 +9,9 @@ I'm a product-focused UX/UI designer learning frontend development — building 
 ✧ UX grounded in cognitive psychology
 
 ## Learning path
-**Completed:** HTML, semantic markup, accessibility foundations  
-**Current:** CSS (layouts, responsive design, modern techniques)  
-**Next:** JavaScript → React → TypeScript
+**Completed:** HTML, CSS — Responsive Web Design certified  
+**Current:** JavaScript, Git  
+**Next:** React → TypeScript
 
 ## Design stack
 Figma, Adobe XD, design systems, prototyping

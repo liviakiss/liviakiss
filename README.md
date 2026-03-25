@@ -30,6 +30,7 @@ HTML, CSS, Git basics, JavaScript (in progress)
 - [X/Twitter](https://x.com/LiviaKissDesign)
 - [Dribbble](https://dribbble.com/livia-kiss)
 - [Portfolio](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Falivedesignstudio.net%2F&urlhash=FFuU&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmMq7nHF2S9CJih9K3sqgCw%3D%3D)
+- [Contra](https://contra.com/livia_kiss_42fxi1yx?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=livia_kiss_42fxi1yx)
 
 📫 Open to design projects, collaboration, and learning opportunities.
 

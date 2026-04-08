@@ -4,7 +4,7 @@ I'm a product-focused UX/UI designer learning frontend development — building 
 
 ## What I work on
 ✧ Design systems and component libraries
-✧ Frontend fundamentals (HTML complete, CSS in progress, JavaScript next)
+✧ Frontend fundamentals (HTML complete, CSS complete, JavaScript in progress)
 ✧ Structured, accessible design that translates to clean code
 ✧ UX grounded in cognitive psychology
 
@@ -14,7 +14,7 @@ I'm a product-focused UX/UI designer learning frontend development — building 
 **Next:** React → TypeScript
 
 ## Design stack
-Figma, Adobe XD, design systems, prototyping
+Figma, Adobe, design systems, prototyping
 
 ## Code so far
 HTML, CSS, Git basics, JavaScript (in progress)

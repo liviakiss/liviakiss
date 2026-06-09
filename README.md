@@ -1,40 +1,49 @@
-# Hi, I'm Lívia ✧ 
+# Hi, I'm Lívia ✧
 
-I'm a product-focused UX/UI designer learning frontend development — building the skills to implement the interfaces I design.
+**Design Engineer** (UX/UI + Frontend) currently learning full-stack development with Python & FastAPI.
 
-## What I work on
-✧ Design systems and component libraries
-✧ Frontend fundamentals (HTML complete, CSS complete, JavaScript in progress)
-✧ Structured, accessible design that translates to clean code
-✧ UX grounded in cognitive psychology
+I create calm, intentional, and well-structured digital experiences — and I’m building the ability to take them from design all the way to production myself.
 
-## Learning path
-**Completed:** HTML, CSS — Responsive Web Design certified  
-**Current:** JavaScript, Git  
-**Next:** React → TypeScript
+## What I'm focused on right now
+- Building end-to-end products as a Design Engineer
+- Systems thinking in both design and code
+- Calm & user-respecting interfaces (especially for wellness, productivity, and AI tools)
+- Honest learning in public — documenting the journey from design into full-stack
 
-## Design stack
-Figma, Adobe, design systems, prototyping
+## Current Learning Path
+**Recently completed:**
+- University of Cambridge – Introduction to Cognitive Psychology and Neuropsychology
 
-## Code so far
-HTML, CSS, Git basics, JavaScript (in progress)
+**Currently learning:**
+- CS50P (Harvard) – Python
+- FastAPI + backend architecture
+- Building my first full-stack applications
 
-## Certifications
+**Next:**
+- Deepening backend knowledge
+- Turning personal tools into real products
 
-- 🎓 **freeCodeCamp — Responsive Web Design** · March 2026 · [Verify](https://freecodecamp.org/certification/klivi77/responsive-web-design-v9)
-- 📜 **Google UX Design Certificate** · 2025
-- 📜 **Google Digital Marketing Certificate** · 2025
+## What I bring
+- Strong systems thinking (background in logistics & production)
+- Clean, accessible, and thoughtful UI/UX design
+- Growing ability to implement my own designs
+- Passion for building tools that respect human attention and energy
 
 ## Find me elsewhere
-- [LinkedIn](https://www.linkedin.com/in/l%C3%ADvia-kiss-991401391/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmMq7nHF2S9CJih9K3sqgCw%3D%3D)
-- [X/Twitter](https://x.com/LiviaKissDesign)
-- [Dribbble](https://dribbble.com/livia-kiss)
-- [Portfolio](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Falivedesignstudio.net%2F&urlhash=FFuU&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmMq7nHF2S9CJih9K3sqgCw%3D%3D)
-- [Contra](https://contra.com/livia_kiss_42fxi1yx?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=livia_kiss_42fxi1yx)
-
-📫 Open to design projects, collaboration, and learning opportunities.
+- [Portfolio](https://alivedesignstudio.net)  
+- [X / Twitter](https://x.com/LiviaKissDesign)  
+- [LinkedIn](https://linkedin.com/in/liviakiss)  
+- [Dribbble](https://dribbble.com/livia-kiss)  
+- [Contra](https://contra.com/livia_kiss)
 
 ---
 
-**Why I'm learning to code:**  
-I want to work at the intersection of design and implementation — to understand how my designs are built, collaborate better with developers, and eventually ship my own work end-to-end.
+**Currently building in public:**
+- ALIVE Design Library (free reference for thoughtful design & engineering)
+- FlowState (personal calm operating system)
+- Various full-stack learning projects
+
+Open to interesting collaborations, design + development projects, and conversations with other builders.
+
+---
+

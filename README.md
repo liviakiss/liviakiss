@@ -35,6 +35,7 @@ I create calm, intentional, and well-structured digital experiences — and I’
 - [LinkedIn](https://linkedin.com/in/liviakiss)  
 - [Dribbble](https://dribbble.com/livia-kiss)  
 - [Contra](https://contra.com/livia_kiss)
+- [Reddit](https://www.reddit.com/user/DesignEngineerLivia/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ---
 

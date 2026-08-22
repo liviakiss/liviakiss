@@ -50,7 +50,7 @@ I care about the whole stack of a product — how it looks, how it works underne
 
 ### GitHub stats
 
-![Lívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviakiss&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
+![Lívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviakiss&show_icons=true&theme=vue-dark&hide_border=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviakiss&layout=compact&theme=vue-dark&hide_border=true)
 

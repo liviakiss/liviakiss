@@ -1,15 +1,22 @@
 # Hi, I'm Lívia
 
-**Design Engineer → Full-stack Developer**
+[![typing](https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=3500&pause=1200&color=C4B5A0&width=620&lines=Design+Engineer+%E2%86%92+Full-stack+Developer;the+surface+and+the+system+underneath)](https://github.com/liviakiss)
 
 I care about the whole stack of a product — how it looks, how it works underneath, and how the two decisions talk to each other. Before design and code, I worked in logistics and operations. That's still how I think about problems: as systems with moving parts that need to fit together cleanly.
+
+![Open to work](https://img.shields.io/badge/open%20to%20work-junior%20%2F%20entry-8B7355?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=liviakiss&label=profile%20views&color=c4b5a0&style=flat-square)
+![Followers](https://img.shields.io/github/followers/liviakiss?style=flat-square&logo=github&color=8B7355)
+![Japanese](https://img.shields.io/badge/studying-日本語-bc002d?style=flat-square)
 
 ---
 
 ### What I'm working on
 
-- Strengthening the backend side — Python and FastAPI, deeper JavaScript, React etc.
-- Freelance work on the side
+| | |
+|---|---|
+| backend | Strengthening the backend side — Python and FastAPI, deeper JavaScript, React etc. |
+| freelance | Freelance work on the side |
 
 ### What I've done to get here
 
@@ -35,26 +42,12 @@ I care about the whole stack of a product — how it looks, how it works underne
 
 ### Tools I work with
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,nextjs,python,fastapi,git,github" />
+</p>
 
 ---
 
-### GitHub stats
-
-![Lívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviakiss&show_icons=true&theme=vue-dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviakiss&layout=compact&theme=vue-dark&hide_border=true)
-
----
 
 ### Find me elsewhere
 

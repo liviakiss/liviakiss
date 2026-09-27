@@ -55,6 +55,7 @@ I care about the whole stack of a product — how it looks, how it works underne
 - **X / Twitter** — [@LiviaKissDesign](https://x.com/LiviaKissDesign)
 - **LinkedIn** — [linkedin.com/in/liviakiss](https://linkedin.com/in/liviakiss)
 - **Contra** — [contra.com/livia_kiss](https://contra.com/livia_kiss)
+- **LeetCode** — [leetcode.com/u/liviakiss](https://leetcode.com/u/liviakiss/)
 
 ---
 

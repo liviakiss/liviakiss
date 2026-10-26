@@ -1,64 +1,37 @@
-# Hi, I'm Lívia
-
-[![typing](https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=3500&pause=1200&color=C4B5A0&width=620&lines=Design+Engineer+%E2%86%92+Full-stack+Developer;the+surface+and+the+system+underneath)](https://github.com/liviakiss)
-
-I care about the whole stack of a product — how it looks, how it works underneath, and how the two decisions talk to each other. Before design and code, I worked in logistics and operations. That's still how I think about problems: as systems with moving parts that need to fit together cleanly.
-
-![Open to work](https://img.shields.io/badge/open%20to%20work-junior%20%2F%20entry-8B7355?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=liviakiss&label=profile%20views&color=c4b5a0&style=flat-square)
-![Followers](https://img.shields.io/github/followers/liviakiss?style=flat-square&logo=github&color=8B7355)
-![Japanese](https://img.shields.io/badge/studying-日本語-bc002d?style=flat-square)
-
----
-
-### What I'm working on
-
-| | |
-|---|---|
-| backend | Strengthening the backend side — Python and FastAPI, deeper JavaScript, React etc. |
-| freelance | Freelance work on the side |
-
-### What I've done to get here
-
-- **CS50P** — Harvard's Introduction to Programming with Python
-- **Introduction to Cognitive Psychology and Neuropsychology** — Cambridge
-- **Google UX Design Certificate**
-- **freeCodeCamp** — Responsive Web Design
-
-### What's next
-
-- Ship more full-stack projects (real ones, not tutorials)
-- Land the right role — junior or entry-level, design engineering or development, ideally somewhere I can grow into the backend
-- Keep studying Japanese 🇯🇵
-
-### What I bring
-
-- Systems thinking from an operations background — I can see how the parts of a product fit together, not just the surface
-- Real design judgment on the frontend, because I designed things before I built them
-- The taste to know when a technical decision is going to break the user experience, and vice versa
-- Genuine curiosity about how people think, decide, and work
-
----
-
-### Tools I work with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,nextjs,python,fastapi,git,github" />
+<p align="center">
+  <img src="assets/banner.svg" alt="Lívia Kiss, fullstack developer learning security and data" width="100%">
 </p>
 
----
+<p align="center">
+  I build and deploy web apps with <b>Next.js</b>, <b>React</b>, <b>TypeScript</b> and <b>Python (FastAPI)</b>.<br>
+  I started in logistics, moved into design, and then into code, so I think in systems and care about the details.
+</p>
 
+<p align="center">
+  <b>Open to work</b> · junior fullstack and frontend roles · Netherlands or remote
+</p>
 
-### Find me elsewhere
+<p align="center">
+  <a href="https://liviabuilds.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/l%C3%ADvia-kiss-design/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/LiviaKissDesign">X</a>
+</p>
 
-- **Portfolio** — *(refresh in progress)*
-- **X / Twitter** — [@LiviaKissDesign](https://x.com/LiviaKissDesign)
-- **LinkedIn** — [linkedin.com/in/liviakiss](https://linkedin.com/in/liviakiss)
-- **Contra** — [contra.com/livia_kiss](https://contra.com/livia_kiss)
-- **LeetCode** — [leetcode.com/u/liviakiss](https://leetcode.com/u/liviakiss/)
+<p align="center">
+  <sub>My projects are pinned below. Case studies are on <a href="https://liviabuilds.com">liviabuilds.com</a>.</sub>
+</p>
 
----
+<br>
 
-**Open to conversations** with other builders, junior or entry-level roles in design engineering or full-stack development, and thoughtful collaborations.
+| Right now | Certificates |
+| :-- | :-- |
+| Working through **CS50W**, Web Programming with Python and JavaScript<br>Practising security on **Hack The Box**<br>Building **My World**<br>Learning Japanese for **JLPT N5** | **CS50P**, Introduction to Programming with Python (2026)<br>**Responsive Web Design**, freeCodeCamp (2026)<br>**Cognitive Psychology and Neuropsychology**, University of Cambridge (2026)<br>**Google UX Design** (2025) |
 
-If you're hiring for something adjacent to what I'm describing here, I'd love to hear about it.
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,tailwind,html,css,postgres,git,github,vercel,figma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,tailwind,html,css,postgres,git,github,vercel,figma&theme=light" alt="Python, FastAPI, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS, PostgreSQL, Git, GitHub, Vercel, Figma">
+  </picture>
+</p>
